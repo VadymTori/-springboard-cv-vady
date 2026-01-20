@@ -1,2 +1,3 @@
 # -springboard-cv-vady
 Springboard homework
+- checking readme.... seems like still working....
